@@ -1,0 +1,17 @@
+.bottle
+{
+    border: 2px solid slateblue;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 16px;
+}
+.bottle img
+{
+    width: 200px;
+}
+
+.btn
+{
+    background-color: rgba(213, 255, 171, 0.568);
+    color: rgb(0, 0, 63);
+}
